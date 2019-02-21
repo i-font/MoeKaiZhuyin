@@ -133,7 +133,7 @@ Open Government Data License: https://data.gov.tw/license
 
 本條款之解釋、效力、履行及其他未盡事宜，以中華民國法律為準據法。
 
-##附件：顯名聲明
+## 附件：顯名聲明
 
 提供機關／單位 [年份] [開放資料釋出名稱與版本號]
 此開放資料依政府資料開放授權條款 (Open Government Data License) 進行公眾釋出，使用者於遵守本條款各項規定之前提下，得利用之。
