@@ -8,3 +8,6 @@
 * 原字型檔案名：TW-Kai-98_1.ttf
 * 原字型釋出組織：國家發展委員會[CNS11643中文標準交換碼全字庫](https://www.cns11643.gov.tw/)
 * 原釋出網址：https://data.gov.tw/dataset/5961
+
+以下是本字型於Unicode注音符號區段及注音符號擴展區段的顯示效果展示圖：
+![Unicode注音符號、注音符號擴展區段展示圖](show.png)
