@@ -11,3 +11,5 @@
 
 以下是本字型於Unicode注音符號區段及注音符號擴展區段的顯示效果展示圖：
 ![Unicode注音符號、注音符號擴展區段展示圖](showbpmf.png)
+
+以本字型製作的開源圖片庫：https://commons.wikimedia.org/wiki/Category:Moe_Kai_Zhuyin
