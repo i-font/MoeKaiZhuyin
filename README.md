@@ -10,4 +10,4 @@
 * 原釋出網址：https://data.gov.tw/dataset/5961
 
 以下是本字型於Unicode注音符號區段及注音符號擴展區段的顯示效果展示圖：
-![Unicode注音符號、注音符號擴展區段展示圖](show.png)
+![Unicode注音符號、注音符號擴展區段展示圖](showbpmf.png)
